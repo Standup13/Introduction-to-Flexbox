@@ -47,4 +47,78 @@ ul {
 
 /* image 3*/
 
+#image3 {
+    background-color: rgb(198, 255, 160);
+}
 
+.item-child3 {
+    background-color: rgba(255, 155, 155, 0.795);
+    border: 4px solid rgb(253, 30, 6);
+    flex: 1;
+}
+
+.container3-1 {
+    background-color: rgba(123, 185, 255, 0.801);
+    padding: 12px;
+    border: 4px solid blue;
+    display: flex;
+}
+
+.container3-2 {
+    display: flex;
+    padding: 12px 0px;
+    margin: 0;
+}
+
+.sub-container2 {
+    width: 50vw;
+    margin: 4px 0px 4px 4px;
+}
+
+.item3-2 {
+    background-color: rgba(255, 155, 155, 0.795);
+    border: 4px solid rgb(175, 20, 3);
+    height: 48px;
+    flex: 1;
+    display: flex;
+}
+
+#big-box {
+    height: inherit;
+    margin: 4px 4px 4px 0px;
+}
+
+#minimun-box {
+    margin-bottom: 6px;
+}
+
+#minimun-box2 {
+    margin-top: 6px;
+}
+
+
+#child {
+    margin: 4px 4px 4px 4px;    
+}
+
+.container3-3 {
+    background-color: rgba(123, 185, 255, 0.801);
+    padding: 12px;
+    border: 4px solid blue;
+    display: flex;
+}
+
+.container-invisible {
+    height: inherit;
+    flex: 1;
+    display: flex;
+}
+
+.item3-1 {
+    background-color: rgba(231, 236, 253, 0.575);
+    border: 4px solid rgb(115, 115, 255);
+    height: 48px;
+    flex: 1;
+    margin: 4px;
+    display: flex;
+}
